@@ -1,7 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-10-13",
   "fuelPrices": [
+    {
+      "effectiveTimeEpoch": 1788220800,
+      "catatan": "Penyesuaian Subsidi Terbaru",
+      "pertalite": { "hargaJual": 1000, "subsidi": 6400 },
+      "bioSolar": { "hargaJual": 680, "subsidi": 7800 },
+      "pertamax": { "hargaJual": 1630, "subsidi": 0 },
+      "pertaminaDex": { "hargaJual": 2080, "subsidi": 0 }
+    },
     {
       "effectiveTimeEpoch": 1786752000,
       "catatan": "Penyesuaian Subsidi Terbaru",
