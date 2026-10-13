@@ -1,30 +1,67 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-13",
+  "lastUpdatedTimestamp": 1780272000,
+  "catatan": "Pembaruan Tarif dan Subsidi BBM Resmi",
   "fuelPrices": [
-    {
-      "effectiveTimeEpoch": 1788220800,
-      "catatan": "Penyesuaian Subsidi Terbaru",
-      "pertalite": { "hargaJual": 1000, "subsidi": 6400 },
-      "bioSolar": { "hargaJual": 680, "subsidi": 7800 },
-      "pertamax": { "hargaJual": 1630, "subsidi": 0 },
-      "pertaminaDex": { "hargaJual": 2080, "subsidi": 0 }
-    },
     {
       "effectiveTimeEpoch": 1786752000,
       "catatan": "Penyesuaian Subsidi Terbaru",
-      "pertalite": { "hargaJual": 10000, "subsidi": 6400 },
-      "bioSolar": { "hargaJual": 6800, "subsidi": 7800 },
-      "pertamax": { "hargaJual": 16300, "subsidi": 0 },
-      "pertaminaDex": { "hargaJual": 20800, "subsidi": 0 }
+      "pertalite": {
+        "hargaJual": 10000,
+        "subsidi": 6400
+      },
+      "bioSolar": {
+        "hargaJual": 6800,
+        "subsidi": 7800
+      },
+      "pertamax": {
+        "hargaJual": 16300,
+        "subsidi": 0
+      },
+      "pertaminaDex": {
+        "hargaJual": 20800,
+        "subsidi": 0
+      }
     },
     {
       "effectiveTimeEpoch": 1780272000,
-      "catatan": "Penyesuaian Sebelumnya",
-      "pertalite": { "hargaJual": 10000, "subsidi": 5800 },
-      "bioSolar": { "hargaJual": 6800, "subsidi": 9200 },
-      "pertamax": { "hargaJual": 16800, "subsidi": 0 },
-      "pertaminaDex": { "hargaJual": 16800, "subsidi": 0 }
+      "catatan": "Periode 1 Juni 2026",
+      "pertalite": {
+        "hargaJual": 10000,
+        "subsidi": 5800
+      },
+      "bioSolar": {
+        "hargaJual": 6800,
+        "subsidi": 9200
+      },
+      "pertamax": {
+        "hargaJual": 16800,
+        "subsidi": 0
+      },
+      "pertaminaDex": {
+        "hargaJual": 16800,
+        "subsidi": 0
+      }
+    },
+    {
+      "effectiveTimeEpoch": 0,
+      "catatan": "Tarif Dasar",
+      "pertalite": {
+        "hargaJual": 10000,
+        "subsidi": 8101
+      },
+      "bioSolar": {
+        "hargaJual": 6800,
+        "subsidi": 14612
+      },
+      "pertamax": {
+        "hargaJual": 16300,
+        "subsidi": 0
+      },
+      "pertaminaDex": {
+        "hargaJual": 21650,
+        "subsidi": 0
+      }
     }
   ]
 }
