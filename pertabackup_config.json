@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 1,
   "updatedAt": "2026-10-13",
   "fuelPrices": [
     {
       "effectiveTimeEpoch": 1786752000,
-      "catatan": "Penyesuaian Oktober 2026",
+      "catatan": "Penyesuaian Subsidi Terbaru",
       "pertalite": { "hargaJual": 10000, "subsidi": 6400 },
       "bioSolar": { "hargaJual": 6800, "subsidi": 7800 },
       "pertamax": { "hargaJual": 16300, "subsidi": 0 },
@@ -12,31 +12,11 @@
     },
     {
       "effectiveTimeEpoch": 1780272000,
-      "catatan": "Periode Juli 2026",
+      "catatan": "Penyesuaian Sebelumnya",
       "pertalite": { "hargaJual": 10000, "subsidi": 5800 },
       "bioSolar": { "hargaJual": 6800, "subsidi": 9200 },
       "pertamax": { "hargaJual": 16800, "subsidi": 0 },
       "pertaminaDex": { "hargaJual": 16800, "subsidi": 0 }
-    }
-  ],
-  "templates": [
-    {
-      "id": 1,
-      "spbuCode": "2430783",
-      "spbuName": "SPBU MERDEKA LINGKUNGAN V",
-      "spbuAddress": "JL. MERDEKA LINGKUNGAN V KM.45"
-    },
-    {
-      "id": 2,
-      "spbuCode": "3413409",
-      "spbuName": "SPBU MT HARYONO KAV. 18",
-      "spbuAddress": "JL. MT HARYONO KAV. 18 JAKARTA"
-    },
-    {
-      "id": 3,
-      "spbuCode": "3112702",
-      "spbuName": "SPBU GATOT SUBROTO 42",
-      "spbuAddress": "JL. GATOT SUBROTO KAV. 42"
     }
   ]
 }
