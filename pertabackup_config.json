@@ -1,7 +1,7 @@
 {
-  "appStatus": "on",
-  "version": 3,
-  "lastUpdatedTimestamp": 1791902655,
+  "appStatus": "off",
+  "version": 4,
+  "lastUpdatedTimestamp": 1791987321,
   "catatan": "Pembaruan Tarif dan Subsidi BBM Resmi",
   "fuelPrices": [
     {
