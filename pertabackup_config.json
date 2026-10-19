@@ -1,8 +1,8 @@
 {
-  "appStatus": "on",
-  "version": 5,
-  "lastUpdatedTimestamp": 1791987321,
-  "catatan": "Pembaruan Tarif dan Subsidi BBM Resmi",
+  "version": 6,
+  "appStatus": "active",
+  "lastUpdatedTimestamp": 1792384750,
+  "catatan": "Penambahan setting spbu dan appStatus jadi active dari on",
   "fuelPrices": [
     {
       "effectiveTimeEpoch": 1788220800,
@@ -202,6 +202,78 @@
       "pertaminaDex": {
         "hargaJual": 21650,
         "subsidi": 0
+      }
+    }
+  ],
+  "spbuList": [
+    {
+      "id": 1,
+      "code": "2430631",
+      "name": "SPBU TUGU MULYO OKI",
+      "address": "JL. TUGU MULYO LEMPUING OKI",
+      "operators": ["FAISAL", "RIDWAN", "ANGGA P.", "DIKI S.", "RIZAL", "BAYU A."],
+      "transFormula": {
+        "t1": 1783331037,
+        "t2": 1791543516,
+        "trans1": 5255122,
+        "trans2": 5479092,
+        "usePumpOffset": true
+      }
+    },
+    {
+      "id": 2,
+      "code": "2430783",
+      "name": "SPBU MERDEKA LINGKUNGAN V",
+      "address": "JL. MERDEKA LINGKUNGAN V KM.45",
+      "operators": ["SOBIRIN", "NOPRIANTO", "RAHMAN", "ANDRI", "HARYANTO"],
+      "transFormula": {
+        "t1": 1783331037,
+        "t2": 1791543516,
+        "trans1": 4255122,
+        "trans2": 4479092,
+        "usePumpOffset": false
+      }
+    },
+    {
+      "id": 3,
+      "code": "24307150",
+      "name": "SPBU PALEMBANG-BETUNG 51",
+      "address": "JL. RAYA PALEMBANG-BETUNG 51",
+      "operators": ["YUDI P.", "TAUFIK", "DANI S.", "ARIFIN", "GUNTUR"],
+      "transFormula": {
+        "t1": 1791468347,
+        "t2": 1791543516,
+        "trans1": 2877004,
+        "trans2": 4479092,
+        "usePumpOffset": false
+      }
+    },
+    {
+      "id": 4,
+      "code": "24307150",
+      "name": "SPBU PALEMBANG-BETUNG 51",
+      "address": "JL. RAYA PALEMBANG-BETUNG 51",
+      "operators": ["YUDI P.", "TAUFIK", "DANI S.", "ARIFIN", "GUNTUR"],
+      "transFormula": {
+        "t1": 1791468347,
+        "t2": 1791543516,
+        "trans1": 2877004,
+        "trans2": 4479092,
+        "usePumpOffset": false
+      }
+    },
+    {
+      "id": 5,
+      "code": "24307150",
+      "name": "SPBU PALEMBANG-BETUNG 51",
+      "address": "JL. RAYA PALEMBANG-BETUNG 51",
+      "operators": ["YUDI P.", "TAUFIK", "DANI S.", "ARIFIN", "GUNTUR"],
+      "transFormula": {
+        "t1": 1791468347,
+        "t2": 1791543516,
+        "trans1": 2877004,
+        "trans2": 4479092,
+        "usePumpOffset": false
       }
     }
   ]
