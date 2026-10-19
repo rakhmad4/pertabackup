@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "appStatus": "active",
-  "lastUpdatedTimestamp": 1792384750,
+  "lastUpdatedTimestamp": 1792385464,
   "catatan": "Penambahan setting spbu dan appStatus jadi active dari on",
   "fuelPrices": [
     {
@@ -250,30 +250,30 @@
     },
     {
       "id": 4,
-      "code": "24307150",
-      "name": "SPBU PALEMBANG-BETUNG 51",
-      "address": "JL. RAYA PALEMBANG-BETUNG 51",
-      "operators": ["YUDI P.", "TAUFIK", "DANI S.", "ARIFIN", "GUNTUR"],
+      "code": "24306169",
+      "name": "SPBU LINTAS TIMUR CELIKA OKI ",
+      "address": "Jl. LINTAS TIMUR CELIKA KAYUAG",
+      "operators": ["ISNAENI.", "INDAH", "IRWAN.", "ARNOLD", "JAMIL"],
       "transFormula": {
         "t1": 1791468347,
         "t2": 1791543516,
-        "trans1": 2877004,
-        "trans2": 4479092,
-        "usePumpOffset": false
+        "trans1": 4866004,
+        "trans2": 5173390,
+        "usePumpOffset": true
       }
     },
     {
       "id": 5,
-      "code": "24307150",
-      "name": "SPBU PALEMBANG-BETUNG 51",
-      "address": "JL. RAYA PALEMBANG-BETUNG 51",
-      "operators": ["YUDI P.", "TAUFIK", "DANI S.", "ARIFIN", "GUNTUR"],
+      "code": "2430630",
+      "name": "SPBU KAYU AGUNG OKI",
+      "address": "Jl. RAYA KAYU AGUNG OKI",
+      "operators": ["YOLANDA", "ADELIA", "ZULFIKAR", "SUYATNO", "RIZAL"],
       "transFormula": {
         "t1": 1791468347,
         "t2": 1791543516,
-        "trans1": 2877004,
-        "trans2": 4479092,
-        "usePumpOffset": false
+        "trans1": 5977047,
+        "trans2": 6279097,
+        "usePumpOffset": true
       }
     }
   ]
