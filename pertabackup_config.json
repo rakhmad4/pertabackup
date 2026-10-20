@@ -250,10 +250,11 @@
     },
     {
       "id": 4,
-      "code": "24306169",
+      "code": "24306169 system",
       "name": "SPBU LINTAS TIMUR CELIKA OKI ",
       "address": "Jl. LINTAS TIMUR CELIKA KAYUAG",
       "operators": ["ISNAENI.", "INDAH", "IRWAN.", "ARNOLD", "JAMIL"],
+      "fontName": "system",
       "transFormula": {
         "t1": 1791468347,
         "t2": 1791543516,
@@ -264,10 +265,11 @@
     },
     {
       "id": 5,
-      "code": "2430630",
+      "code": "2430630 mono",
       "name": "SPBU KAYU AGUNG OKI",
       "address": "Jl. RAYA KAYU AGUNG OKI",
       "operators": ["YOLANDA", "ADELIA", "ZULFIKAR", "SUYATNO", "RIZAL"],
+      "fontName": "mono",
       "transFormula": {
         "t1": 1791468347,
         "t2": 1791543516,
@@ -278,7 +280,7 @@
     },
     {
       "id": 6,
-      "code": "21 346 17",
+      "code": "21 346 17 none",
       "name": "SPBU KM 234",
       "address": "Tol Sumatera KM 234",
       "operators": ["ALI SOBIRIN", "ISNAENI", "AHMAD", "RIZAL Y", "ALFARIZI"],
