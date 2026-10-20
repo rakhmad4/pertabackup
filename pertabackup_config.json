@@ -282,6 +282,7 @@
       "name": "SPBU KM 234",
       "address": "Tol Sumatera KM 234",
       "operators": ["ALI SOBIRIN", "ISNAENI", "AHMAD", "RIZAL Y", "ALFARIZI"],
+      "fontName": "none",
       "transFormula": {
         "t1": 1792330040,
         "t2": 1789941985,
