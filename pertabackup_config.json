@@ -1,7 +1,7 @@
 {
-  "version": 8,
+  "version": 9,
   "appStatus": "active",
-  "lastUpdatedTimestamp": 1792385464,
+  "lastUpdatedTimestamp": 1792448446,
   "catatan": "Penambahan setting spbu dan appStatus jadi active dari on",
   "fuelPrices": [
     {
@@ -278,16 +278,16 @@
     },
     {
       "id": 6,
-      "code": "1234567",
-      "name": "SPBU TEST SAMPLE",
-      "address": "Jl. SAMPLE",
-      "operators": ["YOLANDA", "ADELIA", "ZULFIKAR", "SUYATNO", "RIZAL"],
+      "code": "21 346 17",
+      "name": "SPBU KM 234",
+      "address": "Tol Sumatera KM 234",
+      "operators": ["ALI SOBIRIN", "ISNAENI", "AHMAD", "RIZAL Y", "ALFARIZI"],
       "transFormula": {
-        "t1": 1791468347,
-        "t2": 1791543516,
-        "trans1": 5977047,
-        "trans2": 6279097,
-        "usePumpOffset": true
+        "t1": 1792330040,
+        "t2": 1789941985,
+        "trans1": 506526,
+        "trans2": 500273,
+        "usePumpOffset": false
       }
     }
   ]
