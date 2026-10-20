@@ -280,7 +280,7 @@
     },
     {
       "id": 6,
-      "code": "21 346 17 none",
+      "code": "21 346 17",
       "name": "SPBU KM 234",
       "address": "Tol Sumatera KM 234",
       "operators": ["ALI SOBIRIN", "ISNAENI", "AHMAD", "RIZAL Y", "ALFARIZI"],
