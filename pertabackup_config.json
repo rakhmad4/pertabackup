@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "appStatus": "active",
   "lastUpdatedTimestamp": 1792385464,
   "catatan": "Penambahan setting spbu dan appStatus jadi active dari on",
@@ -267,6 +267,20 @@
       "code": "2430630",
       "name": "SPBU KAYU AGUNG OKI",
       "address": "Jl. RAYA KAYU AGUNG OKI",
+      "operators": ["YOLANDA", "ADELIA", "ZULFIKAR", "SUYATNO", "RIZAL"],
+      "transFormula": {
+        "t1": 1791468347,
+        "t2": 1791543516,
+        "trans1": 5977047,
+        "trans2": 6279097,
+        "usePumpOffset": true
+      }
+    },
+    {
+      "id": 6,
+      "code": "1234567",
+      "name": "SPBU TEST SAMPLE",
+      "address": "Jl. SAMPLE",
       "operators": ["YOLANDA", "ADELIA", "ZULFIKAR", "SUYATNO", "RIZAL"],
       "transFormula": {
         "t1": 1791468347,
