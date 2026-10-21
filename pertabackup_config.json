@@ -228,9 +228,9 @@
       "operators": ["SOBIRIN", "NOPRIANTO", "RAHMAN", "ANDRI", "HARYANTO"],
       "fontName": "mono",
       "transFormula": {
-        "t1": 1783331037,
-        "t2": 1791543516,
-        "trans1": 4255122,
+        "t1": 1789977790,
+        "t2": 1791518318,
+        "trans1": 4433492,
         "trans2": 4479092,
         "usePumpOffset": false
       }
@@ -244,9 +244,9 @@
       "fontName": "mono",
       "transFormula": {
         "t1": 1791468347,
-        "t2": 1791543516,
+        "t2": 1784854990,
         "trans1": 2877004,
-        "trans2": 4479092,
+        "trans2": 2796341,
         "usePumpOffset": false
       }
     },
@@ -261,7 +261,7 @@
         "t2": 1791543516,
         "trans1": 4866004,
         "trans2": 5173390,
-        "usePumpOffset": true
+        "usePumpOffset": false
       }
     },
     {
@@ -275,7 +275,7 @@
         "t2": 1791543516,
         "trans1": 5977047,
         "trans2": 6279097,
-        "usePumpOffset": true
+        "usePumpOffset": false
       }
     },
     {
