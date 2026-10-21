@@ -1,29 +1,9 @@
 {
-  "version": 10,
+  "version": 11,
   "appStatus": "active",
-  "lastUpdatedTimestamp": 1793485246,
+  "lastUpdatedTimestamp": 1792574459,
   "catatan": "Penambahan setting spbu dan appStatus jadi active dari on",
   "fuelPrices": [
-    {
-      "effectiveTimeEpoch": 1793485246,
-      "catatan": "Periode 1 November 2026",
-      "pertalite": {
-        "hargaJual": 100000,
-        "subsidi": 6700
-      },
-      "bioSolar": {
-        "hargaJual": 68000,
-        "subsidi": 8600
-      },
-      "pertamax": {
-        "hargaJual": 163000,
-        "subsidi": 0
-      },
-      "pertaminaDex": {
-        "hargaJual": 257050,
-        "subsidi": 0
-      }
-    },
     {
       "effectiveTimeEpoch": 1788220800,
       "catatan": "Periode 1 September 2026",
